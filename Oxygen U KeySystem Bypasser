@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>OxygenU KeyBypass</title>
+  </head>
+  <body>
+    <h1>Oxygen U Key system bypass</h3>
+    <h3>By: ProBacon</h1>
+    
+    <h5>Step: </5>
+    <h6>1. Open Oxygen U</h6>
+    <h6>2. Click yes on the user account control</h6>
+    <h6>3. Click on "GetKey"</h6>
+    <h6>4. Click on "Oxygen U Checkpoint 1 bypass on this page and wait for it to bring you to linkver page.</h6>
+    <h6>5. Wait around 7~10 seconds</h6>
+    <h6>6. Click on "Oxygen U GetKey on this page and wait for it to bring you to Oxygen U key page.</h6>
+    <br><br>
+    <button onclick="Check1Key()">Oxygen U Checkpoint 1 bypass</button>
+    <br>
+    <br>
+    <button onclick="FinalKey()">Oxygen U GetKey</button>
+    <br>
+    <p>Please wait 7~10 seconds before bypassing again!</p>
+    <br><br><br>
+    <p>First time scripting HTML, the page looks so odd. IDK how to code HTML and CSS</p>
+  </body>
+  <script>
+    function Check1Key() {
+      window.open("https://oxygenu.xyz/KeySystem/Check1.php", "_blank");
+    }
+    function FinalKey() {
+      window.open("https://oxygenu.xyz/KeySystem/Main.php", "_blank");
+    }
+  </script>
+</html>
